@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "君に世界",
+  "base_artist": "Eve",
+  "createdAt": "2026-03-06T14:33:15.389228Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君に世界",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_君に世界_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君に世界",
+      "artist": "Eve (57)",
+      "has_synced": true,
+      "path": "select/02_君に世界_Eve_(57).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君に世界",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/03_君に世界_Eve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君に世界 - Eve MV",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/04_君に世界_-_Eve_MV_Eve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君に世界 (This World to You) instrumental",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/05_君に世界_(This_World_to_You)_instrumental_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君に世界",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_君に世界_Eve.txt"
+    }
+  ]
+}
